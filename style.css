@@ -40,8 +40,8 @@ body {
   --bs-body-bg-rgb: 246, 245, 243;
   --bs-body-bg: #F6F5F3;
 
-  --bs-primary: #DD4F46;
-  --bs-secondary: #DED4D3;
+  --bs-primary: #a8cf45;
+  --bs-secondary: #a8cf45;
   --bs-black: #111;
   --bs-white: #fff;
   --bs-light: #f8f8f8;
@@ -49,7 +49,7 @@ body {
   --bs-gray: #9aa1a7;
   --bs-gray-dark: #51565b;
 
-  --bs-primary-rgb: 221, 79, 70;
+  --bs-primary-rgb: 168, 207, 69;
   --bs-secondary-rgb: 239, 238, 235;
   --bs-black-rgb: 17, 17, 17;
   --bs-light-rgb: 241, 241, 240;
